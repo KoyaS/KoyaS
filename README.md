@@ -1,6 +1,6 @@
 # Hi, I'm Koya Saito 👋
 
-I'm currently a junior in college looking for ways to get ahead. This summer I'm a Software Development Intern at Fraunhofer USA Inc. Reach out if you have a cool project idea!
+I'm currently a junior in college looking for ways to get ahead. I'm a Software Development Intern at Fraunhofer USA Inc but code in my free time. Reach out if you have a cool project idea!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/koya-saito-bb9384173"><img alt="LinkedIn" src="https://img.shields.io/badge/Koya_Saito-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
