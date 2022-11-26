@@ -1,6 +1,6 @@
 # Hi, I'm Koya Saito 👋
 
-I'm currently a junior in college looking for ways to get ahead. I'm a Software Development Intern at Fraunhofer USA Inc but code in my free time. Reach out if you have a cool project idea!
+Fourth year Computational Data Science major working as an analyst for IZEA Inc. In my free time, I do cool things. Check out my site: <a href="koyasaito.com">koyasaito.com</a>. 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/koya-saito-bb9384173"><img alt="LinkedIn" src="https://img.shields.io/badge/Koya_Saito-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
