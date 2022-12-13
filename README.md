@@ -1,6 +1,6 @@
 # Hi, I'm Koya Saito 👋
 
-Fourth year Computational Data Science major working as an analyst for IZEA Inc. In my free time, I do cool things. Check out my site: <a href="koyas.github.io">koyas.github.io</a>. 
+Fourth year Computational Data Science major working as an analyst for IZEA Inc. In my free time, I do cool things. Check out my site: <a href="https://koyas.github.io/">koyas.github.io</a>. 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/koya-saito-bb9384173"><img alt="LinkedIn" src="https://img.shields.io/badge/Koya_Saito-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
